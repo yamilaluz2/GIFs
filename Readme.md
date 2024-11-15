@@ -6,7 +6,7 @@ Este es un proyecto donde los usuarios pueden buscar GIFs utilizando la API de G
 
 1) Clona el repositorio en tu máquina local:
 
-git clone https://github.com/tuusuario/Buscador-de-GIFs.git
+git clone https://github.com/yamilaluz2/GIFs.git
 cd Buscador-de-GIFs
 
 2) Obtené tu clave de API de Giphy siguiendo estos pasos:
